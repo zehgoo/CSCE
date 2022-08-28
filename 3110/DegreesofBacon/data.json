@@ -1,0 +1,602 @@
+{
+    "movies": [
+        {
+            "title": "Diner",
+            "cast": [
+                "Steve Guttenberg",
+                "Daniel Stern",
+                "Mickey Rourke",
+                "Kevin Bacon",
+                "Tim Daly",
+                "Ellen Barkin",
+                "Paul Reiser",
+                "Kathryn Dowling",
+                "Michael Tucker",
+                "Jessica James",
+                "Colette Blonigan",
+                "Kelle Kipp",
+                "Clement Fowler",
+                "Claudia Cron"
+            ]
+        },
+        {
+            "title": "Footloose",
+            "cast": [
+                "Kevin Bacon",
+                "Lori Singer",
+                "Dianne Wiest",
+                "John Lithgow",
+                "Sarah Jessica Parker",
+                "Chris Penn",
+                "Frances Lee McCain",
+                "Jim Youngs",
+                "John Laughlin",
+                "Lynne Marta",
+                "Douglas Dirkson"
+            ]
+        },
+        {
+            "title": "Flatliners",
+            "cast": [
+                "Kiefer Sutherland",
+                "Julia Roberts",
+                "Kevin Bacon",
+                "William Baldwin",
+                "Oliver Platt",
+                "Kimberly Scott",
+                "Joshua Rudoy",
+                "Benjamin Mouton",
+                "Hope Davis",
+                "Patricia Belcher",
+                "Beth Grant"
+            ]
+        },
+        {
+            "title": "Eat Pray Love",
+            "cast": [
+                "Julia Roberts",
+                "Javier Bardem",
+                "Billy Crudup",
+                "Richard Jenkins",
+                "Viola Davis",
+                "James Franco",
+                "Sophie Thompson",
+                "Mike O 'Malley",
+                "Christine Hakim",
+                "Arlene Tur",
+                "Hadi Subiyanto",
+                "Gita Reddy",
+                "Tuva Novotny",
+                "Luca Argentero",
+                "Rushita Singh"
+            ]
+        },
+        {
+            "title": "Spotlight",
+            "cast": [
+                "Mark Ruffalo",
+                "Michael Keaton",
+                "Rachel McAdams",
+                "Liev Schreiber",
+                "John Slattery",
+                "Brian d'Arcy James",
+                "Stanley Tucci",
+                "Gene Amoroso",
+                "Jamey Sheridan",
+                "Billy Crudup",
+                "Maureen Keiller",
+                "Richard Jenkins",
+                "Paul Guilfoyle",
+                "Len Cariou",
+                "Neal Huff",
+                "Michael Cyril Creighton",
+                "Laurie Heineman",
+                "Tim Progosh"
+            ]
+        },
+        {
+            "title": "JFK (film)",
+            "cast": [
+                "Kevin Costner",
+                "Kevin Bacon",
+                "Tommy Lee Jones",
+                "Laurie Metcalf",
+                "Gary Oldman",
+                "Michael Rooker",
+                "Jay O. Sanders",
+                "Sissy Spacek",
+                "Joe Pesci",
+                "Beata Poźniak",
+                "Jack Lemmon",
+                "Walter Matthau",
+                "Donald Sutherland",
+                "Ed Asner",
+                "Brian Doyle-Murray",
+                "John Candy",
+                "Sally Kirkland",
+                "Wayne Knight",
+                "Pruitt Taylor Vince",
+                "Tony Plana",
+                "Vincent D'Onofrio",
+                "Dale Dye",
+                "Lolita Davidovich",
+                "Ellen McElduff",
+                "John Larroquette",
+                "Willem Oltmans",
+                "Tomas Milian",
+                "Gary Grubbs",
+                "Ron Rifkin",
+                "Peter Maloney (actor)|Peter Maloney",
+                "John Finnegan (actor)|John Finnegan",
+                "Wayne Tippit",
+                "Jo Anderson",
+                "Bob Gunton",
+                "Frank Whaley",
+                "Jim Garrison"
+            ]
+        },
+        {
+            "title": "American History X",
+            "cast": [
+                "Edward Norton",
+                "Edward Furlong",
+                "Fairuza Balk",
+                "Stacy Keach",
+                "Elliott Gould",
+                "Avery Brooks",
+                "Beverly D'Angelo",
+                "Jennifer Lien",
+                "Ethan Suplee",
+                "William Russ",
+                "Guy Torry",
+                "Joseph Cortese",
+                "Antonio David Lyons",
+                "Keram Malicki-Sánchez",
+                "Giuseppe Andrews",
+                "Christopher Masterson",
+                "Paul Le Mat"
+            ]
+        },
+        {
+            "title": "White Banners",
+            "cast": [
+                "Claude Rains",
+                "Fay Bainter",
+                "Jackie Cooper",
+                "Bonita Granville",
+                "Henry O'Neill",
+                "Kay Johnson",
+                "James Stephenson",
+                "J. Farrell MacDonald",
+                "William Pawley",
+                "Edward Pawley",
+                "John Ridgely",
+                "Mary Field",
+                "Edward McWade"
+            ]
+        },
+        {
+            "title": "Three Comrades (1938 film)",
+            "cast": [
+                "Robert Taylor (American actor)|Robert Taylor",
+                "Margaret Sullavan",
+                "Franchot Tone",
+                "Robert Young (actor)|Robert Young",
+                "Guy Kibbee",
+                "Lionel Atwill",
+                "Henry Hull",
+                "Charley Grapewin",
+                "Monty Woolley"
+            ]
+        },
+        {
+            "title": "Ball of Fire",
+            "cast": [
+                "Gary Cooper",
+                "Barbara Stanwyck",
+                "Dana Andrews",
+                "Oskar Homolka",
+                "Henry Travers",
+                "S.Z. Sakall",
+                "Tully Marshall",
+                "Leonid Kinskey",
+                "Richard Haydn",
+                "Aubrey Mather",
+                "Allen Jenkins",
+                "Dan Duryea",
+                "Ralph Peters",
+                "Kathleen Howard",
+                "Mary Field",
+                "Charles Lane (actor)|Charles Lane",
+                "Aldrich Bowker",
+                "Charles Arnt",
+                "Addison Richards",
+                "Elisha Cook Jr.",
+                "Pat West (actor)|Pat West",
+                "Kenneth Howell",
+                "Tommy Ryan",
+                "Will Lee",
+                "Tim Ryan (actor)|Tim Ryan",
+                "Gene Krupa"
+            ]
+        },
+        {
+            "title": "Now, Voyager",
+            "cast": [
+                "Bette Davis",
+                "Paul Henreid",
+                "Claude Rains",
+                "Gladys Cooper",
+                "Bonita Granville",
+                "John Loder (actor)|John Loder",
+                "Ilka Chase",
+                "Lee Patrick (actress)|Lee Patrick",
+                "Franklin Pangborn",
+                "Katharine Alexander",
+                "James Rennie (actor)|James Rennie",
+                "Mary Wickes",
+                "Janis Wilson"
+            ]
+        },
+        {
+            "title": "The Great Escape (film)",
+            "cast": [
+                "Steve McQueen",
+                "James Garner",
+                "Richard Attenborough",
+                "James Donald",
+                "Charles Bronson",
+                "Donald Pleasence",
+                "James Coburn",
+                "Hannes Messemer",
+                "David McCallum",
+                "Gordon Jackson (actor)|Gordon Jackson",
+                "John Leyton",
+                "Angus Lennie",
+                "Nigel Stock (actor)|Nigel Stock",
+                "Robert Graf (actor)|Robert Graf",
+                "Jud Taylor",
+                "Hans Reiser (actor)|Hans Reiser",
+                "Harry Riebauer",
+                "William Russell (English actor)|William Russell",
+                "Robert Freitag",
+                "Ulrich Beiger",
+                "George Mikell",
+                "Lawrence Montaigne",
+                "Robert Desmond",
+                "Til Kiwe",
+                "Heinz Weiss",
+                "Tom Adams (actor)|Tom Adams",
+                "Karl-Otto Alberty"
+            ]
+        },
+        {
+            "title": "Mr. Skeffington",
+            "cast": [
+                "Bette Davis",
+                "Claude Rains",
+                "Walter Abel",
+                "Richard Waring",
+                "Marjorie Riordan",
+                "Robert Shayne",
+                "John Alexander (actor)|John Alexander",
+                "Jerome Cowan",
+                "Peter Whitney",
+                "Bill Kennedy (actor)|Bill Kennedy",
+                "Johnny Mitchell",
+                "George Coulouris",
+                "Dorothy Peterson",
+                "Creighton Hale",
+                "Halliwell Hobbes",
+                "Ethan Laidlaw",
+                "Jack Mower",
+                "Will Stanton (actor)|Will Stanton"
+            ]
+        },
+        {
+            "title": "Mrs. Parkington",
+            "cast": [
+                "Greer Garson",
+                "Walter Pidgeon",
+                "Edward Arnold (actor)|Edward Arnold",
+                "Agnes Moorehead",
+                "Cecil Kellaway",
+                "Tala Birell",
+                "Gladys Cooper",
+                "Frances Rafferty",
+                "Tom Drake",
+                "Dan Duryea",
+                "Helen Freeman (actress)|Helen Freeman",
+                "Lee Patrick (actress)|Lee Patrick",
+                "Rod Cameron (actor)|Rod Cameron",
+                "Peter Lawford",
+                "Hugh Marlowe",
+                "Fortunio Bonanova",
+                "Harry Cording",
+                "Hans Conried",
+                "Gerald Oliver Smith",
+                "Gordon Richards (actor)|Gordon Richards",
+                "Wallis Clark",
+                "Al Ferguson",
+                "Byron Foulger",
+                "Howard Hickman",
+                "Brandon Hurst"
+            ]
+        },
+        {
+            "title": "The Valley of Decision",
+            "cast": [
+                "Greer Garson",
+                "Gregory Peck",
+                "Donald Crisp",
+                "Lionel Barrymore",
+                "Preston Foster",
+                "Marsha Hunt (actress, born 1917)|Marsha Hunt",
+                "Gladys Cooper",
+                "Reginald Owen",
+                "Dan Duryea",
+                "Jessica Tandy",
+                "Barbara Everest",
+                "Marshall Thompson"
+            ]
+        },
+        {
+            "title": "Love Letters (1945 film)",
+            "cast": [
+                "Jennifer Jones",
+                "Joseph Cotten",
+                "Ann Richards (actress)|Ann Richards",
+                "Cecil Kellaway",
+                "Gladys Cooper",
+                "Anita Louise",
+                "Robert Sully",
+                "Reginald Denny (actor)|Reginald Denny",
+                "Ernest Cossart",
+                "Byron Barr"
+            ]
+        },
+        {
+            "title": "Leave Her to Heaven",
+            "cast": [
+                "Gene Tierney",
+                "Cornel Wilde",
+                "Jeanne Crain",
+                "Vincent Price",
+                "Mary Philips",
+                "Ray Collins (actor)|Ray Collins",
+                "Gene Lockhart",
+                "Reed Hadley",
+                "Darryl Hickman",
+                "Chill Wills",
+                "Olive Blakeney",
+                "James Farley (actor)|Jim Farley",
+                "Grant Mitchell (actor)|Grant Mitchell",
+                "Earl Schenck"
+            ]
+        },
+        {
+            "title": "Lady Jane (1986 film)",
+            "cast": [
+                "Helena Bonham Carter",
+                "Cary Elwes",
+                "Jane Lapotaire",
+                "Patrick Stewart",
+                "Sara Kestelman",
+                "Michael Hordern",
+                "John Wood (English actor)|John Wood",
+                "Jill Bennett (British actress)|Jill Bennett",
+                "Joss Ackland",
+                "Ian Hogg (actor)|Ian Hogg",
+                "Richard Johnson (actor)|Richard Johnson",
+                "Warren Saire",
+                "Lee Montague",
+                "Richard Vernon",
+                "Adele Anderson",
+                "Pip Torrens",
+                "Matthew Guinness",
+                "Guy Henry (actor)|Guy Henry",
+                "W. Morgan Sheppard"
+            ]
+        },
+        {
+            "title": "The Edge (1997 film)",
+            "cast": [
+                "Anthony Hopkins",
+                "Alec Baldwin",
+                "Elle Macpherson",
+                "Harold Perrineau",
+                "L. Q. Jones",
+                "Kathleen Wilhoite",
+                "David Lindstedt",
+                "Mark Kiely",
+                "Eli Gabay",
+                "Larry Musser",
+                "Gordon Tootoosis",
+                "Kelsa Kinsly",
+                "Bart the Bear"
+            ]
+        },
+        {
+            "title": "They Call Me Trinity",
+            "cast": [
+                "Bud Spencer",
+                "Terence Hill",
+                "Farley Granger",
+                "Steffen Zacharias",
+                "Dan Sturkie",
+                "Gisela Hahn",
+                "Elena Pedemonte",
+                "Ezio Marano",
+                "Luciano Rossi",
+                "Michele Cimarosa",
+                "Ugo Sasso",
+                "Remo Capitani",
+                "Riccardo Pizzuti",
+                "Paolo Magalotti",
+                "Antonio Monselesan",
+                "Gaetano Imbrò",
+                "Luigi Bonos|Gigi Bonos"
+            ]
+        },
+        {
+            "title": "Grave of the Fireflies",
+            "cast": [
+                "Tsutomu Tatsumi",
+                "Ayano Shiraishi",
+                "Yoshiko Shinohara (voice actress)|Yoshiko Shinohara",
+                "Akemi Yamaguchi"
+            ]
+        },
+        {
+            "title": "To Sir, with Love",
+            "cast": [
+                "Sidney Poitier",
+                "Judy Geeson",
+                "Christian Roberts (actor)|Christian Roberts",
+                "Suzy Kendall",
+                "Lulu (singer)|Lulu",
+                "Faith Brook",
+                "Geoffrey Bayldon",
+                "Patricia Routledge",
+                "Ann Bell",
+                "Chris Chittell|Christopher Chittell",
+                "Adrienne Posta",
+                "Edward Burnham",
+                "Rita Webb",
+                "Gareth Robinson",
+                "Lynne Sue Moon",
+                "Anthony Villaroel",
+                "Richard Willson",
+                "Michael Des Barres",
+                "Fred Griffiths (actor)|Fred Griffiths",
+                "Marianne Stone",
+                "Fiona Duncan",
+                "Mona Bruce",
+                "Dervis Ward",
+                "Peter Attard",
+                "Sally James (presenter)|Sally Cann",
+                "The Mindbenders"
+            ]
+        },
+        {
+            "title": "Earth Girls Are Easy",
+            "cast": [
+                "Geena Davis",
+                "Jim Carrey",
+                "Damon Wayans",
+                "Jeff Goldblum",
+                "Julie Brown",
+                "Michael McKean",
+                "Charles Rocket",
+                "Larry Linville",
+                "Rick Overton",
+                "Nedra Volz",
+                "Diane Stilwell",
+                "Angelyne"
+            ]
+        },
+        {
+            "title": "SLC Punk!",
+            "cast": [
+                "Matthew Lillard",
+                "Michael A. Goorjian|Michael Goorjian",
+                "Annabeth Gish",
+                "Jennifer Lien",
+                "Christopher McDonald (actor)|Christopher McDonald",
+                "Devon Sawa",
+                "Adam Pascal",
+                "Jason Segel",
+                "Til Schweiger",
+                "Christopher Ogden",
+                "Francis Capra",
+                "James Duval",
+                "Summer Phoenix"
+            ]
+        },
+        {
+            "title": "The Urethra Chronicles",
+            "cast": [
+                "Blink-182"
+            ]
+        },
+        {
+            "title": "Hamam (film)",
+            "cast": [
+                "Alessandro Gassman",
+                "Francesca d'Aloja",
+                "Carlo Cecchi",
+                "Halil Ergün",
+                "Serif Sezer",
+                "Mehmet Günsür",
+                "Basak Köklükaya",
+                "Alberto Molinari",
+                "Zozo Toledo",
+                "Ludovica Modugno"
+            ]
+        },
+        {
+            "title": "The Hanging Garden (film)",
+            "cast": [
+                "Chris Leavins",
+                "Troy Veinotte",
+                "Sarah Polley",
+                "Peter MacNeill",
+                "Seana McKenna",
+                "Kerry Fox",
+                "Joel S. Keller|Joel Keller",
+                "Christine Dunsworth",
+                "Joan Orenstein",
+                "Heather Rankin (singer)|Heather Rankin",
+                "Ashley MacIsaac"
+            ]
+        },
+        {
+            "title": "Duel in the Sun (film)",
+            "cast": [
+                "Jennifer Jones",
+                "Joseph Cotten",
+                "Gregory Peck",
+                "Lionel Barrymore",
+                "Herbert Marshall",
+                "Lillian Gish",
+                "Walter Huston",
+                "Charles Bickford",
+                "Harry Carey (actor)|Harry Carey",
+                "Charles Dingle",
+                "Sidney Blackmer",
+                "Butterfly McQueen",
+                "Otto Kruger",
+                "Joan Tetzel",
+                "Tilly Losch",
+                "Scott McKay",
+                "Hank Bell",
+                "Bob McKenzie (actor)|Bob McKenzie"
+            ]
+        },
+        {
+            "title": "To Each His Own (1946 film)",
+            "cast": [
+                "Olivia de Havilland",
+                "Mary Anderson (actress, born 1918)|Mary Anderson",
+                "Roland Culver",
+                "Phillip Terry",
+                "Bill Goodwin",
+                "Virginia Welles",
+                "Victoria Horne",
+                "Griff Barnett",
+                "Alma Macrorie",
+                "Billy Ward",
+                "Frank Faylen",
+                "Willard Robertson",
+                "Arthur Loft",
+                "Virginia Farmer",
+                "Doris Lloyd",
+                "Clyde Cook (actor)|Clyde Cook",
+                "Ida Moore",
+                "Mary Young (actress)|Mary Young",
+                "John Lund (actor)|John Lund",
+                "Will Stanton (actor)|Will Stanton"
+            ]
+        }
+    ]
+}

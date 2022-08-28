@@ -1,0 +1,5 @@
+echo "You go to cave. Find Ghost of She. Lay ghost to rest. This your quest. Bring Peace
+where was strife. Go!"
+read response
+echo $response
+echo "Take Drugs Kill a bear"
